@@ -20,7 +20,7 @@ The puzzles unlocked at midnight EST/UTC-5.
 -https://adventofcode.com/2020/about
 
 ## Advent displays
-[Day 1](Day1/README.md)
+[Day 1](Day1)
 
 ## Author
 * Katherine Delorme - *[katherinedelorme.com](http://katherinedelorme.com?utm_source=github&utm_medium=repo&utm_campaign=advent_of_code_readme "Portfolio Website")*
