@@ -1,7 +1,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
 # Advent of Code - Day 1
-This repository is my solution for [Day 1](https://adventofcode.com/2020/day/1?utm_source=github&utm_medium=repo&utm_campaign=advent_of_code_day1_readme) [Advent of Code](https://adventofcode.com/2020?utm_source=github&utm_medium=repo&utm_campaign=advent_of_code_day1_readme). Used arrays, for loop, if else statements, split, etc.
+This repository is my solution for [Day 1](https://adventofcode.com/2020/day/1?utm_source=github&utm_medium=repo&utm_campaign=advent_of_code_day1_readme) of [Advent of Code](https://adventofcode.com/2020?utm_source=github&utm_medium=repo&utm_campaign=advent_of_code_day1_readme). Used arrays, for loop, if else statements, split, etc.
 
 ## Getting Started
 You can download a zip file, fork this project, or clone with HTTPS.
@@ -29,18 +29,20 @@ Specifically, they need you to find the two entries that sum to 2020 and then mu
 
 For example, suppose your expense report contained the following:
 
+<pre>
 1721
 979
 366
 299
 675
 1456
+</pre>
 
 In this list, the two entries that sum to 2020 are 1721 and 299. Multiplying them together produces 1721 * 299 = 514579, so the correct answer is 514579.
 
 Of course, your expense report is much larger. Find the two entries that sum to 2020; what do you get if you multiply them together?
 
-[Input values provided](https://adventofcode.com/2020/day/1/input?utm_source=github&utm_medium=repo&utm_campaign=Advent_of_code_day1_readme).
+The input values I was provided came from https://adventofcode.com/2020/day/1/input. For the demo use the sample input above.
 
 **My puzzle answer was 793524**.
 
@@ -58,7 +60,7 @@ In your expense report, what is the product of the three entries that sum to 202
 
 ## Demo: CodePen
 [View on CodePen](https://codepen.io/Katdelorme/pen/MWjaWPb "View on CodePen").
-Paste the [input values](https://adventofcode.com/2020/day/1/input?utm_source=github&utm_medium=repo&utm_campaign=Advent_of_code_day1_readme) into the text area. In the text field for desired sum type 2020. Then click the calculate button.
+Paste the sample input values provided above in Programming puzzle section into the text area. In the text field for desired sum type 2020. Then click the calculate button.
 
 ## Author
 * Katherine Delorme - *[katherinedelorme.com](http://katherinedelorme.com?utm_source=github&utm_medium=repo&utm_campaign=advent_of_code_day1_readme "Portfolio Website")*
